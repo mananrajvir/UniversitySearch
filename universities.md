@@ -1,7 +1,7 @@
 ---
 title: "US Universities Map using Leaflet"
 author: "Manan Rajvir"
-date: "`r format(Sys.Date())`"
+date: "13 July 2020"
 output: 
         html_document:
         keep_md: true
